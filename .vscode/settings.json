@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./PFPLD/test_related"
+    ]
+}
